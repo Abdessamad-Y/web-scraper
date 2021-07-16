@@ -1,0 +1,2 @@
+in this project I used beautiful soup, os,requests to get information from a given URL (https://www.nature.com/nature/articles) in witch i extracted data from different types of articles(article ,research page...)
+the project two parameter number of pages & type of article and it return a directory with the file_number and inside each directory we find the articles titles.txt and each .txt contain article content
